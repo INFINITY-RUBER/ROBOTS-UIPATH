@@ -1,0 +1,1 @@
+﻿Error al abril texto  Try LECTURA DATOSThe process cannot access the file 'C:\Users\eruhern\Documents\UiPath\LEER_EXCEL\data\INFORME DE HALLAZGOS_BUESACO.xlsx' because it is being used by another process. - 11/23/2019 16:28:25

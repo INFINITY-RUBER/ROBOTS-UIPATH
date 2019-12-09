@@ -1,0 +1,5 @@
+﻿Error leyendo archivo: Error al agregar filas Object reference not set to an instance of an object. - 02/18/2018 23:28:32
+Error leyendo archivo: Error escribiendodatos Object reference not set to an instance of an object. - 02/18/2018 23:28:34
+
+Error leyendo archivo: Error al agregar filas Object reference not set to an instance of an object. - 02/18/2018 23:31:53
+Error leyendo archivo: Error escribiendodatos Object reference not set to an instance of an object. - 02/18/2018 23:31:54
