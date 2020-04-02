@@ -10,10 +10,10 @@
         "C:\\Users\\eruhern\\.nuget\\packages\\csvhelper/2.13.5\\lib/net40-client/CsvHelper.dll",
         "C:\\Users\\eruhern\\.nuget\\packages\\documentformat.openxml/2.5.0\\lib/DocumentFormat.OpenXml.dll",
         "C:\\Users\\eruhern\\.nuget\\packages\\microsoft.visualstudio.ole.interop/7.10.6071\\lib/Microsoft.VisualStudio.OLE.Interop.dll",
-        "C:\\Users\\eruhern\\.nuget\\packages\\npoi/2.4.1\\lib/net45/NPOI.dll",
         "C:\\Users\\eruhern\\.nuget\\packages\\npoi/2.4.1\\lib/net45/NPOI.OOXML.dll",
         "C:\\Users\\eruhern\\.nuget\\packages\\npoi/2.4.1\\lib/net45/NPOI.OpenXml4Net.dll",
         "C:\\Users\\eruhern\\.nuget\\packages\\npoi/2.4.1\\lib/net45/NPOI.OpenXmlFormats.dll",
+        "C:\\Users\\eruhern\\.nuget\\packages\\npoi/2.4.1\\lib/net45/NPOI.dll",
         "C:\\Users\\eruhern\\.nuget\\packages\\sharpziplib/1.0.0\\lib/net45/ICSharpCode.SharpZipLib.dll",
         "C:\\Users\\eruhern\\.nuget\\packages\\uipath.excel.activities/2.7.2\\lib/net461/UiPath.Excel.Activities.Design.dll",
         "C:\\Users\\eruhern\\.nuget\\packages\\uipath.excel.activities/2.7.2\\lib/net461/UiPath.Excel.Activities.dll",
@@ -69,10 +69,10 @@
       },
       "Assemblies": [
         "C:\\Users\\eruhern\\.nuget\\packages\\avalonedit/5.0.3\\lib/Net40/ICSharpCode.AvalonEdit.dll",
-        "C:\\Users\\eruhern\\.nuget\\packages\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.AvalonDock.dll",
         "C:\\Users\\eruhern\\.nuget\\packages\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.AvalonDock.Themes.Aero.dll",
         "C:\\Users\\eruhern\\.nuget\\packages\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.AvalonDock.Themes.Metro.dll",
         "C:\\Users\\eruhern\\.nuget\\packages\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.AvalonDock.Themes.VS2010.dll",
+        "C:\\Users\\eruhern\\.nuget\\packages\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.AvalonDock.dll",
         "C:\\Users\\eruhern\\.nuget\\packages\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.DataGrid.dll",
         "C:\\Users\\eruhern\\.nuget\\packages\\extended.wpf.toolkit/2.8.0\\lib/net40/Xceed.Wpf.Toolkit.dll",
         "C:\\Users\\eruhern\\.nuget\\packages\\humanizer.core/2.4.2\\lib/netstandard2.0/Humanizer.dll",
@@ -102,11 +102,43 @@
         "C:\\Users\\eruhern\\.nuget\\packages\\uipath.vision/1.8.1\\lib/net452/UiPath.Vision.AbbyyFRECommon.dll",
         "C:\\Users\\eruhern\\.nuget\\packages\\uipath.vision/1.8.1\\lib/net452/UiPath.Vision.AzureComputerVision.dll",
         "C:\\Users\\eruhern\\.nuget\\packages\\uipath.vision/1.8.1\\lib/net452/UiPath.Vision.Core.dll",
-        "C:\\Users\\eruhern\\.nuget\\packages\\uipath.vision/1.8.1\\lib/net452/UiPath.Vision.dll",
         "C:\\Users\\eruhern\\.nuget\\packages\\uipath.vision/1.8.1\\lib/net452/UiPath.Vision.GoogleCloud.dll",
         "C:\\Users\\eruhern\\.nuget\\packages\\uipath.vision/1.8.1\\lib/net452/UiPath.Vision.Microsoft.dll",
         "C:\\Users\\eruhern\\.nuget\\packages\\uipath.vision/1.8.1\\lib/net452/UiPath.Vision.MicrosoftCloud.dll",
-        "C:\\Users\\eruhern\\.nuget\\packages\\uipath.vision/1.8.1\\lib/net452/UiPath.Vision.Tesseract.dll"
+        "C:\\Users\\eruhern\\.nuget\\packages\\uipath.vision/1.8.1\\lib/net452/UiPath.Vision.Tesseract.dll",
+        "C:\\Users\\eruhern\\.nuget\\packages\\uipath.vision/1.8.1\\lib/net452/UiPath.Vision.dll"
+      ]
+    },
+    {
+      "Package": {
+        "Id": "UiPath.GoogleVision.Activities",
+        "Version": "1.1.1"
+      },
+      "Assemblies": [
+        "C:\\Users\\eruhern\\.nuget\\packages\\google.apis/1.38.0\\lib/net45/Google.Apis.dll",
+        "C:\\Users\\eruhern\\.nuget\\packages\\google.apis/1.38.0\\lib/net45/Google.Apis.PlatformServices.dll",
+        "C:\\Users\\eruhern\\.nuget\\packages\\google.apis.auth/1.38.0\\lib/net45/Google.Apis.Auth.dll",
+        "C:\\Users\\eruhern\\.nuget\\packages\\google.apis.auth/1.38.0\\lib/net45/Google.Apis.Auth.PlatformServices.dll",
+        "C:\\Users\\eruhern\\.nuget\\packages\\google.apis.core/1.38.0\\lib/net45/Google.Apis.Core.dll",
+        "C:\\Users\\eruhern\\.nuget\\packages\\google.apis.vision.v1/1.38.0.1495\\lib/net45/Google.Apis.Vision.v1.dll",
+        "C:\\Users\\eruhern\\.nuget\\packages\\newtonsoft.json/11.0.2\\lib/net45/Newtonsoft.Json.dll",
+        "C:\\Users\\eruhern\\.nuget\\packages\\uipath.googlevision.activities/1.1.1\\lib/net461/UiPath.GoogleVision.Activities.Design.dll",
+        "C:\\Users\\eruhern\\.nuget\\packages\\uipath.googlevision.activities/1.1.1\\lib/net461/UiPath.GoogleVision.Activities.dll",
+        "C:\\Users\\eruhern\\.nuget\\packages\\uipath.googlevision.activities/1.1.1\\lib/net461/UiPath.GoogleVision.dll"
+      ]
+    },
+    {
+      "Package": {
+        "Id": "UiPath.WebAPI.Activities",
+        "Version": "1.4.4"
+      },
+      "Assemblies": [
+        "C:\\Users\\eruhern\\.nuget\\packages\\avalonedit/5.0.3\\lib/Net40/ICSharpCode.AvalonEdit.dll",
+        "C:\\Users\\eruhern\\.nuget\\packages\\newtonsoft.json/11.0.2\\lib/net45/Newtonsoft.Json.dll",
+        "C:\\Users\\eruhern\\.nuget\\packages\\restsharp/106.3.1\\lib/net452/RestSharp.dll",
+        "C:\\Users\\eruhern\\.nuget\\packages\\uipath.webapi.activities/1.4.4\\lib/net452/UiPath.Web.Activities.Design.dll",
+        "C:\\Users\\eruhern\\.nuget\\packages\\uipath.webapi.activities/1.4.4\\lib/net452/UiPath.Web.Activities.dll",
+        "C:\\Users\\eruhern\\.nuget\\packages\\uipath.webapi.activities/1.4.4\\lib/net452/UiPath.Web.dll"
       ]
     }
   ],
@@ -146,6 +178,58 @@
       "Id": "Extended.Wpf.Toolkit",
       "Version": "2.8.0",
       "Dependencies": []
+    },
+    "Google.Apis": {
+      "Id": "Google.Apis",
+      "Version": "1.38.0",
+      "Dependencies": [
+        {
+          "Item1": "Google.Apis.Core",
+          "Item2": "[1.38.0, )"
+        },
+        {
+          "Item1": "Newtonsoft.Json",
+          "Item2": "[10.0.2, )"
+        }
+      ]
+    },
+    "Google.Apis.Auth": {
+      "Id": "Google.Apis.Auth",
+      "Version": "1.38.0",
+      "Dependencies": [
+        {
+          "Item1": "Google.Apis.Core",
+          "Item2": "[1.38.0, )"
+        },
+        {
+          "Item1": "Google.Apis",
+          "Item2": "[1.38.0, )"
+        }
+      ]
+    },
+    "Google.Apis.Core": {
+      "Id": "Google.Apis.Core",
+      "Version": "1.38.0",
+      "Dependencies": [
+        {
+          "Item1": "Newtonsoft.Json",
+          "Item2": "[10.0.2, )"
+        }
+      ]
+    },
+    "Google.Apis.Vision.v1": {
+      "Id": "Google.Apis.Vision.v1",
+      "Version": "1.38.0.1495",
+      "Dependencies": [
+        {
+          "Item1": "Google.Apis",
+          "Item2": "[1.38.0, )"
+        },
+        {
+          "Item1": "Google.Apis.Auth",
+          "Item2": "[1.38.0, )"
+        }
+      ]
     },
     "Humanizer.Core": {
       "Id": "Humanizer.Core",
@@ -202,6 +286,11 @@
         }
       ]
     },
+    "RestSharp": {
+      "Id": "RestSharp",
+      "Version": "106.3.1",
+      "Dependencies": []
+    },
     "SharpZipLib": {
       "Id": "SharpZipLib",
       "Version": "1.0.0",
@@ -244,6 +333,28 @@
         {
           "Item1": "SharpZipLib",
           "Item2": "[1.0.0, )"
+        }
+      ]
+    },
+    "UiPath.GoogleVision.Activities": {
+      "Id": "UiPath.GoogleVision.Activities",
+      "Version": "1.1.1",
+      "Dependencies": [
+        {
+          "Item1": "Google.Apis",
+          "Item2": "[1.38.0, )"
+        },
+        {
+          "Item1": "Google.Apis.Auth",
+          "Item2": "[1.38.0, )"
+        },
+        {
+          "Item1": "Google.Apis.Vision.v1",
+          "Item2": "[1.38.0.1495, )"
+        },
+        {
+          "Item1": "Newtonsoft.Json",
+          "Item2": "[10.0.3, )"
         }
       ]
     },
@@ -337,6 +448,24 @@
         {
           "Item1": "UiPath.OCR.Contracts",
           "Item2": "[2.2.1, )"
+        }
+      ]
+    },
+    "UiPath.WebAPI.Activities": {
+      "Id": "UiPath.WebAPI.Activities",
+      "Version": "1.4.4",
+      "Dependencies": [
+        {
+          "Item1": "AvalonEdit",
+          "Item2": "[5.0.3, )"
+        },
+        {
+          "Item1": "Newtonsoft.Json",
+          "Item2": "[11.0.2, )"
+        },
+        {
+          "Item1": "RestSharp",
+          "Item2": "[106.3.1, )"
         }
       ]
     }

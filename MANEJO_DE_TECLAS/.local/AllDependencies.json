@@ -1610,9 +1610,9 @@
     "restore": {
       "projectUniqueName": "MANEJO_DE_TECLAS",
       "projectName": "MANEJO_DE_TECLAS",
-      "projectPath": "C:\\Users\\eruhern\\Documents\\UiPath\\MANEJO_DE_TECLAS\\.local",
+      "projectPath": "C:\\Users\\eruhern\\Documents\\UiPath_curso_1\\MANEJO_DE_TECLAS\\.local",
       "packagesPath": "C:\\Users\\eruhern\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\eruhern\\Documents\\UiPath\\MANEJO_DE_TECLAS\\.local"
+      "outputPath": "C:\\Users\\eruhern\\Documents\\UiPath_curso_1\\MANEJO_DE_TECLAS\\.local"
     },
     "frameworks": {
       "net461": {

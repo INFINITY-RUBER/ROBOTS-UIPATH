@@ -1601,9 +1601,9 @@
     "restore": {
       "projectUniqueName": "CREAR-OT-MAXIMO",
       "projectName": "CREAR-OT-MAXIMO",
-      "projectPath": "C:\\Users\\eruhern\\Documents\\UiPath\\2020_CREACION_OT_ARTI-CONFIG\\.local",
+      "projectPath": "C:\\Users\\eruhern\\Documents\\UiPath_curso_1\\2020_CREACION_OT_ARTI-CONFIG\\.local",
       "packagesPath": "C:\\Users\\eruhern\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\eruhern\\Documents\\UiPath\\2020_CREACION_OT_ARTI-CONFIG\\.local"
+      "outputPath": "C:\\Users\\eruhern\\Documents\\UiPath_curso_1\\2020_CREACION_OT_ARTI-CONFIG\\.local"
     },
     "frameworks": {
       "net461": {

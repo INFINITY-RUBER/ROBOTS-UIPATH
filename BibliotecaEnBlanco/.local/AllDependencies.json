@@ -1610,9 +1610,9 @@
     "restore": {
       "projectUniqueName": "BibliotecaEnBlanco",
       "projectName": "BibliotecaEnBlanco",
-      "projectPath": "C:\\Users\\eruhern\\Documents\\UiPath\\BibliotecaEnBlanco\\.local",
+      "projectPath": "C:\\Users\\eruhern\\Documents\\UiPath_curso_1\\BibliotecaEnBlanco\\.local",
       "packagesPath": "C:\\Users\\eruhern\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\eruhern\\Documents\\UiPath\\BibliotecaEnBlanco\\.local"
+      "outputPath": "C:\\Users\\eruhern\\Documents\\UiPath_curso_1\\BibliotecaEnBlanco\\.local"
     },
     "frameworks": {
       "net461": {

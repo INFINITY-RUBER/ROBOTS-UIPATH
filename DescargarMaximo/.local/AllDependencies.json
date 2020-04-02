@@ -1610,9 +1610,9 @@
     "restore": {
       "projectUniqueName": "DescargarMaximo",
       "projectName": "DescargarMaximo",
-      "projectPath": "C:\\Users\\eruhern\\Documents\\UiPath\\DescargarMaximo\\.local",
+      "projectPath": "C:\\Users\\eruhern\\Documents\\UiPath_curso_1\\DescargarMaximo\\.local",
       "packagesPath": "C:\\Users\\eruhern\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\eruhern\\Documents\\UiPath\\DescargarMaximo\\.local"
+      "outputPath": "C:\\Users\\eruhern\\Documents\\UiPath_curso_1\\DescargarMaximo\\.local"
     },
     "frameworks": {
       "net461": {
