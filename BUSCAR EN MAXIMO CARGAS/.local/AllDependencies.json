@@ -1601,9 +1601,9 @@
     "restore": {
       "projectUniqueName": "BUSCAR EN MAXIMO CARGAS",
       "projectName": "BUSCAR EN MAXIMO CARGAS",
-      "projectPath": "C:\\Users\\eruhern\\Documents\\UiPath\\BUSCAR EN MAXIMO CARGAS\\.local",
+      "projectPath": "C:\\Users\\eruhern\\Documents\\UiPath_curso_1\\BUSCAR EN MAXIMO CARGAS\\.local",
       "packagesPath": "C:\\Users\\eruhern\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\eruhern\\Documents\\UiPath\\BUSCAR EN MAXIMO CARGAS\\.local"
+      "outputPath": "C:\\Users\\eruhern\\Documents\\UiPath_curso_1\\BUSCAR EN MAXIMO CARGAS\\.local"
     },
     "frameworks": {
       "net461": {
